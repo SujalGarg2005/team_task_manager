@@ -81,7 +81,4 @@ This application is optimized for deployment on **Railway**.
 
 ---
 
-## 📄 Submission Requirements
-- **Live Demo**: [Insert Railway URL Here]
-- **GitHub**: [Insert Repository URL Here]
 - **Developer**: Sujal Garg
